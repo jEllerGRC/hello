@@ -1,0 +1,15 @@
+{
+  "name" : "poweredbymonster/328/hello",
+  "description" : "My first Fat-Free MVC project",
+  "authors" :
+  [
+    {
+      "name" : "Jared Eller",
+      "email" : "eller.jared@student.greenriver.edu"
+    }
+  ],
+  "require" :
+  {
+    "bcosca/fatfree-core" : "dev-master"
+  }
+}
